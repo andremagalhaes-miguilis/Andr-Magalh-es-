@@ -1,0 +1,8 @@
+{
+  "name": "Espresso flow - Coffee Management System",
+  "description": "A comprehensive coffee shop management application featuring POS, Inventory, CRM, Staff Management, and AI-driven business insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
